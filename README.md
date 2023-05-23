@@ -19,7 +19,7 @@
 # STATİSTİC
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr)
 
 <!--
 **talhayigityagiz/talhayigityagiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
