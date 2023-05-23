@@ -15,7 +15,19 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
+## Tools and Technologies
 
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/>
+<img src="https://img.icons8.com/color/48/000000/windows-10.png" title="Windows"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux"/>
+</p>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/photoshop.png" title="Photoshop"/>
+</p>
 # STATİSTİC
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
