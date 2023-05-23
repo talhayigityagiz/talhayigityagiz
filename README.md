@@ -28,8 +28,8 @@
 
 # STATİSTİC
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhayigityagiz&show_icons=true&theme=codeSTACKr&border_radius=17)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhayigityagiz&show_icons=true&theme=codeSTACKr&border_radius=17&card_width=450)
 <!--
 **talhayigityagiz/talhayigityagiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
