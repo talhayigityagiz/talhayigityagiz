@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **talhayigityagiz/talhayigityagiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
