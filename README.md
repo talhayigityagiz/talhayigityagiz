@@ -7,6 +7,10 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/talhayigityagiz)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhayigityagiz)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhayigityagiz@gmail.com)
+
+
+# STATİSTİC
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=talhayigityagiz&theme=codestackr&border_radius=17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
