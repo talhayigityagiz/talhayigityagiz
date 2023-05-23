@@ -2,7 +2,7 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h2>
 
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var.-->
-# CONTACT ME
+# CONTACT
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/talhayigityagiz)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhayigityagiz)
