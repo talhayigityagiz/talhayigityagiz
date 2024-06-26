@@ -9,10 +9,6 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:talhayigityagiz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-%234E34A7.svg?&style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://www.instagram.com/talhayigityagiz/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/talhayigityagiz">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ## Tools and Technologies
